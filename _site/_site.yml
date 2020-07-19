@@ -1,0 +1,8 @@
+name: "Bensonnd Sample Website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about_me.html
