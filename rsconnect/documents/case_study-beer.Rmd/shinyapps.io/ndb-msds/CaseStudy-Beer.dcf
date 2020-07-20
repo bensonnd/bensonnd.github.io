@@ -1,0 +1,12 @@
+name: CaseStudy-Beer
+title: CaseStudy-Beer
+username:
+account: ndb-msds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2594672
+bundleId: 3414300
+url: https://ndb-msds.shinyapps.io/CaseStudy-Beer/
+when: 1595285719.86572
+asMultiple: FALSE
+asStatic: FALSE
